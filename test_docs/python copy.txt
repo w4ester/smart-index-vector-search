@@ -1,0 +1,4 @@
+Python is a popular programming language.
+echo "AI, or Artificial Intelligence, is technology that allows computers to think and learn like humans." > data/sample_docs/ai_intro.txt
+
+
