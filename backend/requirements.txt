@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+python-multipart
+python-docx
+openpyxl
+pdf2image
+pytesseract
+Pillow
+faiss-cpu
